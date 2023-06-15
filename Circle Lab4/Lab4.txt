@@ -1,0 +1,36 @@
+Script started on Mon 27 Feb 2023 09:17:51 PM EST
+]0;merchant.110@cse-sl5:~/cse4252/Lab4[?1034h[merchant.110@cse-sl5 Lab4]$ main
+Circle 1 data(Default constructor): Radius: 5 at point x = 0, y = 0
+Circle 2 data(Constructor with data): Radius: 99 at point x = 3, y = -1
+Circle 3 data(Copy constructor): Radius: 99 at point x = 3, y = -1
+
+Changing cirlce 3 data with set: Radius: 1100 at point x = -10, y = -19
+
+Changing cirlce 1 data with setX to 6 
+Changing cirlce 1 data with setY to 3 
+Changing cirlce 1 data with setRad to 2 
+Getting cirlce 1 data with getX: 6
+Getting cirlce 1 data with getY: 3
+Getting cirlce 1 data with getRad: 2
+
+Translating circle 2 by -3,9: Radius: 99 at point x = 0, y = 8
+
+The area of circle 1 is: 12.56
+
+Testsing intersect false: 0
+Testsing intersect true: 1
+
+Changing cirlce 1 data to match c3
+Testsing operator== true (c1 == c3): 0
+Testsing operator== false (c1 == c2): 0
+
+Testsing operator+ circle 4 data is: Radius: 1102 at point x = 8, y = 4
+
+circle 1 and circle 2 data: Radius: 1100 at point x = -10, y = 4
+Radius: 2 at point x = 8, y = 3
+
+Testsing setting circle 1 rad to negative: Error: radius cannot be less than 0
+]0;merchant.110@cse-sl5:~/cse4252/Lab4[merchant.110@cse-sl5 Lab4]$ exit
+exit
+
+Script done on Mon 27 Feb 2023 09:17:55 PM EST

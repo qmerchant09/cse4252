@@ -1,0 +1,49 @@
+Script started on Tue 21 Mar 2023 06:23:37 PM EDT
+]0;merchant.110@cse-sl7:~/cse4252/Lab5[?1034h[merchant.110@cse-sl7 Lab5]$ exitclearvi classes.cpp[7P./a.out
+var = 1
+var = -2
+]0;merchant.110@cse-sl7:~/cse4252/Lab5[merchant.110@cse-sl7 Lab5]$ exit
+exit
+
+Script done on Tue 21 Mar 2023 06:23:45 PM EDT
+Script started on Tue 21 Mar 2023 06:43:35 PM EDT
+]0;merchant.110@cse-sl7:~/cse4252/Lab5[?1034h[merchant.110@cse-sl7 Lab5]$ exit./a.out[3Pexit./a.out
+var = 1
+varB = 0
+var = -2
+varB = 0
+]0;merchant.110@cse-sl7:~/cse4252/Lab5[merchant.110@cse-sl7 Lab5]$ exit
+exit
+
+Script done on Tue 21 Mar 2023 06:43:44 PM EDT
+Script started on Tue 21 Mar 2023 06:47:04 PM EDT
+]0;merchant.110@cse-sl7:~/cse4252/Lab5[?1034h[merchant.110@cse-sl7 Lab5]$ exit./a.out[3Pexit./a.out
+var = 0
+var = 0
+]0;merchant.110@cse-sl7:~/cse4252/Lab5[merchant.110@cse-sl7 Lab5]$ cl[K[Kexit
+exit
+
+Script done on Tue 21 Mar 2023 06:47:10 PM EDT
+Script started on Tue 21 Mar 2023 06:50:04 PM EDT
+]0;merchant.110@cse-sl7:~/cse4252/Lab5[?1034h[merchant.110@cse-sl7 Lab5]$ exit./a.out[3Pexit./a.out
+var = 0
+]0;merchant.110@cse-sl7:~/cse4252/Lab5[merchant.110@cse-sl7 Lab5]$ exit
+exit
+
+Script done on Tue 21 Mar 2023 06:50:10 PM EDT
+Script started on Tue 21 Mar 2023 07:09:05 PM EDT
+]0;merchant.110@cse-sl7:~/cse4252/Lab5[?1034h[merchant.110@cse-sl7 Lab5]$ exit./a.out[3Pexit./a.out
+]0;merchant.110@cse-sl7:~/cse4252/Lab5[merchant.110@cse-sl7 Lab5]$ exit
+exit
+
+Script done on Tue 21 Mar 2023 07:09:10 PM EDT
+Script started on Tue 21 Mar 2023 07:16:03 PM EDT
+]0;merchant.110@cse-sl7:~/cse4252/Lab5[?1034h[merchant.110@cse-sl7 Lab5]$ exit./a.out[3Pexit./a.out[3Pexit./a.out[3Pexit./a.out[3Pexit./a.out[3Pexitclearvi classes.cpp[7P./a.outvi classes.cpp[7P./a.outg++ classes.cpp[1Pvi[C[C[C[C[C[C[C[C[C[C[C[C[9Pclearvi classes.cpp[1@g++[C[C[C[C[C[C[C[C[C[C[C[C
+[01m[Kclasses.cpp:[m[K In function ‘[01m[Kint main()[m[K’:
+[01m[Kclasses.cpp:34:4:[m[K [01;31m[Kerror: [m[K‘[01m[KA[m[K’ is an inaccessible base of ‘[01m[KB[m[K’
+  a = b;
+[01;32m[K    ^[m[K
+]0;merchant.110@cse-sl7:~/cse4252/Lab5[merchant.110@cse-sl7 Lab5]$ exit
+exit
+
+Script done on Tue 21 Mar 2023 07:16:36 PM EDT

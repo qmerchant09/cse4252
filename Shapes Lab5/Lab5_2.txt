@@ -1,0 +1,50 @@
+Script started on Tue 21 Mar 2023 09:50:29 PM EDT
+]0;merchant.110@cse-sl7:~/cse4252/Lab5[?1034h[merchant.110@cse-sl7 Lab5]$ exitclearg++ main main.cpp Shapes.cpp[1@-[1@o[1@ 
+]0;merchant.110@cse-sl7:~/cse4252/Lab5[merchant.110@cse-sl7 Lab5]$ main
+Circle: 10 | Area = 314.159
+Rectangle: 3, 4 | Area = 12
+Trapezoid: 3, 4, 5 | Area = 16
+]0;merchant.110@cse-sl7:~/cse4252/Lab5[merchant.110@cse-sl7 Lab5]$ exit
+exit
+
+Script done on Tue 21 Mar 2023 09:50:41 PM EDT
+Script started on Tue 21 Mar 2023 09:53:10 PM EDT
+]0;merchant.110@cse-sl7:~/cse4252/Lab5[?1034h[merchant.110@cse-sl7 Lab5]$ exitg++ -o main main.cpp Shapes.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kg++ -o main main.cpp Shapes.cpp
+[01m[Kmain.cpp:[m[K In function ‘[01m[Kint main()[m[K’:
+[01m[Kmain.cpp:12:28:[m[K [01;31m[Kerror: [m[Kno matching function for call to ‘[01m[KQuadrilateral::Quadrilateral(int, int)[m[K’
+        Quadrilateral q(2, 4); //Uncommenting this line should cause an error
+[01;32m[K                            ^[m[K
+[01m[Kmain.cpp:12:28:[m[K [01;36m[Knote: [m[Kcandidates are:
+In file included from [01m[Kmain.cpp:2:0[m[K:
+[01m[KShapes.h:30:7:[m[K [01;36m[Knote: [m[KQuadrilateral::Quadrilateral()
+ class Quadrilateral : public Shape { 
+[01;32m[K       ^[m[K
+[01m[KShapes.h:30:7:[m[K [01;36m[Knote: [m[K  candidate expects 0 arguments, 2 provided
+[01m[KShapes.h:30:7:[m[K [01;36m[Knote: [m[KQuadrilateral::Quadrilateral(const Quadrilateral&)
+[01m[KShapes.h:30:7:[m[K [01;36m[Knote: [m[K  candidate expects 1 argument, 2 provided
+[01m[Kmain.cpp:12:22:[m[K [01;31m[Kerror: [m[Kcannot declare variable ‘[01m[Kq[m[K’ to be of abstract type ‘[01m[KQuadrilateral[m[K’
+        Quadrilateral q(2, 4); //Uncommenting this line should cause an error
+[01;32m[K                      ^[m[K
+In file included from [01m[Kmain.cpp:2:0[m[K:
+[01m[KShapes.h:30:7:[m[K [01;36m[Knote: [m[K  because the following virtual functions are pure within ‘[01m[KQuadrilateral[m[K’:
+ class Quadrilateral : public Shape { 
+[01;32m[K       ^[m[K
+[01m[KShapes.h:6:32:[m[K [01;36m[Knote: [m[K	virtual double Shape::area() const
+                 virtual double area() const = 0;
+[01;32m[K                                ^[m[K
+[01m[KShapes.h:7:30:[m[K [01;36m[Knote: [m[K	virtual void Shape::display() const
+                 virtual void display() const = 0;
+[01;32m[K                              ^[m[K
+]0;merchant.110@cse-sl7:~/cse4252/Lab5[merchant.110@cse-sl7 Lab5]$ exit
+exit
+
+Script done on Tue 21 Mar 2023 09:53:20 PM EDT
+Script started on Tue 21 Mar 2023 10:09:33 PM EDT
+]0;merchant.110@cse-sl7:~/cse4252/Lab5[?1034h[merchant.110@cse-sl7 Lab5]$ main
+Circle: 16 | Area = 804.248
+Rectangle: 9, 8 | Area = 72
+Trapezoid: 7, 15, 4 | Area = 82.5
+]0;merchant.110@cse-sl7:~/cse4252/Lab5[merchant.110@cse-sl7 Lab5]$ mainexitvi main.cpp[7Pexit
+exit
+
+Script done on Tue 21 Mar 2023 10:11:08 PM EDT

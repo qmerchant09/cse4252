@@ -1,0 +1,44 @@
+Script started on Mon 10 Apr 2023 02:29:01 PM EDT
+]0;merchant.110@cse-sl7:~/cse4252/Lab6[?1034h[merchant.110@cse-sl7 Lab6]$ vi LinkedList.cppls[Kvi LinkedList.cpp[Kg++ -o main m[Ktemplate_test.cpp
+]0;merchant.110@cse-sl7:~/cse4252/Lab6[merchant.110@cse-sl7 Lab6]$ main
+Lab 6 test
+Testing add to an empty list
+[11]
+[you]
+
+Testing add to a list with data
+[10,11]
+[Its,you]
+
+Testing insertAt valid points
+[10,11,12]
+[Its,not,you]
+
+Testing insertAt invalid point
+Error: The position given is invalid.
+Error: The position given is invalid.
+[10,11,12]
+[Its,not,you]
+
+Testing true findVal
+Finding value 12: 1
+Finding value you: 1
+
+Testing false findVal
+Finding value 100: 0
+Finding value wont: 0
+
+Testing copy constructor
+[10,11,12]
+[Its,not,you]
+
+Emptying all created lists
+[]
+[]
+[]
+[]
+
+]0;merchant.110@cse-sl7:~/cse4252/Lab6[merchant.110@cse-sl7 Lab6]$ exit
+exit
+
+Script done on Mon 10 Apr 2023 02:29:37 PM EDT

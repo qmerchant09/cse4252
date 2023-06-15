@@ -1,0 +1,29 @@
+Quantez Merchant Answers:
+
+1: The print method that was called on b was the print method for class A. The output of thiswas 
+
+var = 1
+var = -2
+
+To get the correct output I changed the print in A to be virtual, doing this allows the correct print function to be called at run time. The output I got for this was 
+
+var = 1 
+varB = 0
+var = -2
+varB = 0
+
+2: I would expect the print statment of class A to be printed both times.
+
+The output was 
+var = 0
+var = 0
+
+This behavior is different than question 1 because the pointer in this question is of type A so it is using the A print not B. 
+
+3: Calling the print method like that on object b would call the class A print. The output of this is 
+
+var = 0
+
+4: Yes you can pass an object of B into the return function. Running the program didnt cause an error or segmentation fault to occur. 
+
+5: Changing the class declaration causes errors whenever the A and B class interact.  

@@ -1,0 +1,36 @@
+Script started on Sat 28 Jan 2023 08:39:43 PM EST
+]0;merchant.110@cse-sl2:~/cse4252/Lab2[?1034h[merchant.110@cse-sl2 Lab2]$ ls
+[0m[01;32mextractInt[0m  extractInt.cpp  lab2.txt  perLine.txt
+]0;merchant.110@cse-sl2:~/cse4252/Lab2[merchant.110@cse-sl2 Lab2]$ lsextractInt
+Enter the input filename: perLine.txt
+
+File Size: 54 bytes.
+perLine.txt contains 9 lines.
+You can now open intVals.txt and junkVals.txt to see the output!
+]0;merchant.110@cse-sl2:~/cse4252/Lab2[merchant.110@cse-sl2 Lab2]$ ls
+[0m[01;32mextractInt[0m  extractInt.cpp  intVals.txt  junkVals.txt  lab2.txt  perLine.txt
+]0;merchant.110@cse-sl2:~/cse4252/Lab2[merchant.110@cse-sl2 Lab2]$ cat intVals.txt
+123
+56
+89
+]0;merchant.110@cse-sl2:~/cse4252/Lab2[merchant.110@cse-sl2 Lab2]$ cat junkVals.txt
+24August
+ 1space
+ 
+34.5
+6t7share
+x
+]0;merchant.110@cse-sl2:~/cse4252/Lab2[merchant.110@cse-sl2 Lab2]$ cat perLine.txt
+123
+24August
+56
+ 1space
+ 
+34.5
+6t7share
+89
+x
+]0;merchant.110@cse-sl2:~/cse4252/Lab2[merchant.110@cse-sl2 Lab2]$ exit
+exit
+
+Script done on Sat 28 Jan 2023 08:40:49 PM EST
